@@ -90,8 +90,8 @@ Install required packages:
 pip install numpy matplotlib scikit-learn
 
 Run any model:
- waterfall_model.py
- iterative_model_v1.py
- iterative_model_v2.py
- agile_model_sprint1.py
- agile_model_sprint3.py
+ python waterfall_model.py
+ python iterative_model_v1.py
+ python iterative_model_v2.py
+ python agile_model_sprint1.py
+ python agile_model_sprint3.py
